@@ -2,7 +2,11 @@
     "kind": "Template",
     "apiVersion": "v1",
     "metadata": {
-      "name": "sonarqube-jos"
+      "name": "sonarqube-jos",
+      "annotations": {
+        "description": "SonarQube",
+        "iconClass": "icon-capedwarf"
+      }
     },
     "objects": [{
             "kind": "DeploymentConfig",
