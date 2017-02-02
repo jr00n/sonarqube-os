@@ -5,7 +5,8 @@
       "name": "sonarqube-jos",
       "annotations": {
         "description": "SonarQube",
-        "iconClass": "icon-capedwarf"
+        "iconClass": "icon-capedwarf",
+        "tags": "instant-app,SonarQube"
       }
     },
     "objects": [{
